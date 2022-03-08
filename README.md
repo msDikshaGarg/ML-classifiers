@@ -1,4 +1,4 @@
-# ML-classifiers
+# ML Classifiers
 ML classifiers implemented in python for different datasets
 
 The following classifiers are implemented above: 
